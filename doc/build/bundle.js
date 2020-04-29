@@ -430,10 +430,10 @@ var app = (function () {
     }
 
     const app = new App({
-    	target: document.body,
-    	props: {
-    		name: 'world'
-    	}
+      target: document.body,
+      props: {
+        name: "iogist.io",
+      },
     });
 
     return app;
